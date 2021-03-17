@@ -1,5 +1,5 @@
 - 👋 Olá, sou @JozimarHM
-- 👀 Estou interessado em Aprender sempre.. interessado na integração web/automação Residencia
+- 👀 Estou interessado em Aprender sempre.. interessado na integração web/automação Residencial
 - 🌱 Atualmente estou aprendendo Programação nas linguagens Javascript, C++, Html
 - 💞️ Estou procurando colaborar em qualquer projeto que tenha foco na acessibilidade.
 - 📫 Como me alcançar ... Através do meu e-mail: "JozimarHenriquesMoreto@hotmail.com
